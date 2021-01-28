@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+
+body {
+	
+	background-color: yellow;
+	
+}
+
+.for_h2 h2 {
+	
+	font-size: 72px;
+	font-weght: bold;
+	color: red;
+	
+}

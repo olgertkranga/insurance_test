@@ -8,7 +8,7 @@
 		<version>2.1.6.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.eprogrammerz.examples.spring</groupId>
+	<groupId>com.example.test.insurance</groupId>
 	<artifactId>spring-boot-jsp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-jsp</name>

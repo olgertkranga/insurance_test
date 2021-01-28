@@ -16,7 +16,11 @@
     	<h2>This is test insurance application 1</h2>
     </div>
     
+    <div class="all_img">
     
+    	<img src="images/all_insurance.jpg" />
+    
+    </div>
     
     
 	</body>

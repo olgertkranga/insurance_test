@@ -1,4 +1,4 @@
-package com.eprogrammerz.examples.spring.springbootjsp;
+package com.example.test.insurance;
 
 
 import static org.junit.Assert.assertNotNull;

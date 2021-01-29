@@ -16,17 +16,22 @@
 
 	<body>
     
+    
+    <div class="container">  
+    
+    
+    
     <h2 class="hello-title">Hello ${name}!</h2>
     
     <div class="for_h2">
-    	<h2>This is test insurance application 6</h2>
+    	<h2>This is test insurance application 3</h2>
     </div>
     
     <div class="all_img">
      	<img src="images/all_insurance.jpg" />
     </div>
     
-	<div class="container">  
+	
   		<div id="myCarousel" class="carousel slide" data-ride="carousel">
     	<!-- Indicators -->
     	<ol class="carousel-indicators">
@@ -40,23 +45,23 @@
     	<!-- Wrapper for slides -->
     	<div class="carousel-inner">
       		<div class="item active">
-        		<img src="images/kiev.jpg" alt="Kiev" style="width:100%;">
+        		<img src="images/car.jpg" alt="Transport" style="width:100%;">
       		</div>
 	
       	<div class="item">
-        	<img src="images/las_vegas.jpg" alt="Las Vegas" style="width:100%;">
+        	<img src="images/home.jpg" alt="Home" style="width:100%;">
       	</div>
     
       	<div class="item">
-        	<img src="images/lisbon.jpg" alt="Lisbon" style="width:100%;">
+        	<img src="images/medical.jpeg" alt="Medicine" style="width:100%;">
       	</div>
 	  
 	  	<div class="item">
-        	<img src="images/london.jpg" alt="London" style="width:100%;">
+        	<img src="images/risk.jpg" alt="Risk" style="width:100%;">
       	</div>
 	  
 	  	<div class="item">
-        	<img src="images/moscow.jpg" alt="Moscow" style="width:100%;">
+        	<img src="images/travel.jpg" alt="Travel" style="width:100%;">
       	</div>
 	    
     </div>

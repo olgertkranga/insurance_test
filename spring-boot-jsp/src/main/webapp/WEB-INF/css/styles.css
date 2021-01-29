@@ -24,6 +24,21 @@ body {
     	height: 394px;
 	
 	}
+	
+	.carousel-inner {
+	
+		width: 810px;
+    	height: 394px;
+	
+	}
+	
+	
+	#myCarousel {
+	
+		width: 810px;
+    	height: 394px;
+		
+	}
 
 }
 
